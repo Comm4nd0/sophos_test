@@ -1,0 +1,1 @@
+[{"file_path": "<d>:\\Users\\<u>\\xyz", "phone": "<phone>", "name": "<name>"}, {"phone": "<phone>", "file_path": "/home/<u>/sample_file"}, {"file_path": "c:\\windows\\notepad.exe", "city": "Oxford", "source_ip": "<ip>"}]

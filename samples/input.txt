@@ -1,0 +1,16 @@
+[
+	{
+		"file_path": "c:\\Users\\john\\xyz",
+		"phone": "01235 123456",
+		"name": "John"
+	},
+	{
+		"phone": "07123 456 789",
+		"file_path": "/home/john/sample_file"
+	},
+	{
+		"file_path": "c:\\windows\\notepad.exe",
+		"city": "Oxford",
+		"source_ip": "103.23.97.15"
+	}
+]
