@@ -1,0 +1,5 @@
+commonregex==1.5.3
+pyminizip==0.2.4
+python-magic==0.4.24
+unicodecsv==0.14.1
+watchdog==2.1.6
