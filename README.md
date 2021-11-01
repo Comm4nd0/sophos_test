@@ -6,3 +6,8 @@ Edit setting.cfg, specifically 'monitor_dir' and 'output_dir' to real directorie
 
 pip install -r requirements
 
+**run**
+
+python3.8 monitor.py
+
+python3.8 decode.py
