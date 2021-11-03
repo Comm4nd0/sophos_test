@@ -21,3 +21,4 @@ python3.8 decode.py
 * PII method as its own class
 * look for other data serialisation types e.g. yaml, xml
 * look for other keys which might hold PII
+* make compatable with Windows
