@@ -11,6 +11,7 @@ from commonregex import CommonRegex
 from re import findall
 from json import loads, dumps
 from json.decoder import JSONDecodeError
+
 logger = logging.getLogger(__name__)
 
 
