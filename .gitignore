@@ -3,3 +3,4 @@ tmp/*
 filtered/*
 .idea/
 __pycache__/
+venv
